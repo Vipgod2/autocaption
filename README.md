@@ -51,11 +51,11 @@ I created this bot because it might be helpful for Channel Admins/Owners, so the
 
 I am not a progrommer though it is written in my own hands 
 If you have any suggestions to update the bot for better user friendly expirience you can contact me 
-Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
+Through [@TG_SUPP0RT](https://telegram.me/TG_SUPP0RT) or you can contact me directly.
 
 ## My Channel
 
-<b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
+<b>[@TG_SUPP0RT](https://telegram.me/TG_SUPP0RT)</b>
 
 
 ### Thanks to
